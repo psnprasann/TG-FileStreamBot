@@ -1,4 +1,7 @@
-aiohttps==3.9.2
-pyrogram<=2.0.93 
-python-dotenv<=0.20.0
-TgCrypto<=1.2.5
+aiohttp
+pyrogram
+python-dotenv
+tgcrypto
+motor
+aiofiles
+dnspython
